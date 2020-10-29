@@ -8,5 +8,5 @@ NLP Projects Portfolio
 - Included a list of the 50 most frequently occurring nouns and adjectives in the corpus
 - Used Python libraries such as gensim, pyLDAvis, and spaCy
 
-![](/images/Word%20Cloud%20of%20Terms%20in%20EAP's%20Short%20Stories%20-%20Smaller%20Thumbnail.png)
-![](/images/Topic%20Model%20of%20EAP's%20Short%20Stories%20-%20Smaller%20Thumbnail.PNG)
+![](https://github.com/dpruden13/Portfolio/blob/main/images/Word%20Cloud%20of%20Terms%20in%20EAP's%20Short%20Stories%20-%20Smaller%20Thumbnail.png)
+![](https://github.com/dpruden13/Portfolio/blob/main/images/Topic%20Model%20of%20EAP's%20Short%20Stories%20-%20Smaller%20Thumbnail.PNG)
