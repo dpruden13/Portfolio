@@ -1,7 +1,7 @@
 # Portfolio
 NLP Projects Portfolio
 
-## [Fake News Clasifier](https://github.com/dpruden13/Fake-News-Classifier/blob/main/Fake_News_Classifier%20(Naive%20Bayes%2C%20Logistic%20Regression%20%26%20BERT).ipynb)
+## [Fake News Classifier](https://github.com/dpruden13/Fake-News-Classifier/blob/main/Fake_News_Classifier%20(Naive%20Bayes%2C%20Logistic%20Regression%20%26%20BERT).ipynb)
 
 - Trained a model that classifies [real and fake news stories](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) on the test dataset with a high degree of accuracy
 - BERT: 99% accuracy
